@@ -4,3 +4,5 @@ Powershell script to curate VM utilization metrics over a specified period of ti
 To run script, ensure that powershell is installed
 Then run
 ```.\vmCostOptimization.ps1```
+
+The branch name change thing
